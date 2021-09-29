@@ -19,5 +19,5 @@ Atualmente trabalho como programador front-end com flutter onde se concentra a m
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"> 
 </div>
   
-![Snake animation](https://github.com/rafaballerini/RichardsonTsavo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RichardsonTsavo/RichardsonTsavo/blob/output/github-contribution-grid-snake.svg)
 
