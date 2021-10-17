@@ -2,7 +2,7 @@
 É um prazer ter você aqui, fique a vontade para conhecer o meu perfil, tem bastante coisa interessante como: sistemas para geolocalização,
 sistema de login com rede sociais e até alguns minijogos como o Start Reactor do Among us.
 
-Atualmente trabalho como programador front-end com flutter onde se concentra a maior parte dos meus conhecimentos em programação, mas também conheço o básico da trinca HTML, CSS e Java Script devido à faculdade.
+Atualmente trabalho como programador front-end com flutter onde se concentra a maior parte dos meus conhecimentos em programação, mas também conheço C# para unity devido à alguns jogos que desenvolvi na faculdade.
 
 <div align="center">
   <a href="https://github.com/RichardsonTsavo">
