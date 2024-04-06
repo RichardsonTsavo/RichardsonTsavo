@@ -4,10 +4,10 @@ sistema de login com rede sociais e até alguns minijogos como o Start Reactor d
 
 Atualmente trabalho como programador front-end com flutter onde se concentra a maior parte dos meus conhecimentos em programação, mas também conheço C# para unity devido à alguns jogos que desenvolvi na faculdade.
 
-<div align="center">
-  <a href="https://github.com/RichardsonTsavo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RichardsonTsavo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardsonTsavo&layout=compact&langs_count=7&theme=dracula"/>
+//<div align="center">
+//  <a href="https://github.com/RichardsonTsavo">
+//  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RichardsonTsavo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+//  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardsonTsavo&layout=compact&langs_count=7&theme=dracula"/>
 
 </div>
   <div style="display: inline_block"><br>
